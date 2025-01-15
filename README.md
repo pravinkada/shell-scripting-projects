@@ -1,3 +1,3 @@
 # Jenkins-log.sh
-@ AWS EC2 Instance
+ AWS EC2 Instance
 
