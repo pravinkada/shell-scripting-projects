@@ -1,4 +1,4 @@
-# Jenkins-log.sh
+
 # Setting Up Jenkins on AWS with GitHub
 
 This guide provides a concise process to set up a Jenkins instance on AWS and integrate it with a GitHub repository.
@@ -81,7 +81,6 @@ This guide provides a concise process to set up a Jenkins instance on AWS and in
   sudo journalctl -u jenkins
   ```
 - **Backup**: Use S3 for Jenkins data backup.
-- **HTTPS**: Configure HTTPS using an ALB or Let's Encrypt.
 
 
 
